@@ -1,0 +1,357 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "name": "Caras Galadhon",
+            "type": "City",
+            "description": "A majestosa cidade élfica localizada em Lothlórien, conhecida por sua bela arquitetura e atmosfera encantadora.",
+            "coords": "2750,4200",
+            "image": ""
+          },
+        {
+            "id": 2,
+            "name": "Minas Tirith",
+            "type": "City",
+            "description": "É a grande capital de Gondor na Terra-média, caracterizada por suas imponentes paredes brancas e a Cidadela no topo da cidade.",
+            "coords": "1700,4700",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Barad-dûr",
+            "type": "Structure",
+            "description": "Barad-dûr é a imponente fortaleza e a Torre Negra em Mordor, servindo como reduto do Lorde das Trevas Sauron na Terra-média.",
+            "coords": "1900,5600",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "Portos Cinzentos",
+            "type": "Structure",
+            "description": "Os Portos Cinzentos são um refúgio para os Elfos na Terra-média, servindo como ponto de partida para aqueles que buscam passagem para as Terras Imortais.",
+            "coords": "3200,2300",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "name": "Salões de Thranduil",
+            "type": "City",
+            "description": "O Reino da Floresta foi o lar dos Elfos da Floresta das Trevas durante a maior parte da Terceira Era e na Quarta Era.",
+            "coords": "3200,5000",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "Forlond",
+            "type": "City",
+            "description": "É um dos refúgios para os Elfos na Terra-média, conhecido por sua localização costeira e como ponto de partida para as Terras Imortais.",
+            "coords": "3050,2030",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "Emyn Muil",
+            "type": "Mountain",
+            "description": "Uma fortaleza em Rohan, conhecida pela Batalha de Helms Deep contra as forças de Saruman.",
+            "coords": "2350,4700",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "Erebor",
+            "type": "Mountain",
+            "description": "Erebor, a Montanha Solitária. Montanha dos anões, lar do dragão Smaug, recuperada por Thorin e Bilbo em 'O Hobbit'.",
+            "coords": "3400,5150",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "Esgaroth",
+            "type": "City",
+            "description": "Também conhecida como Cidade do Lago, é uma comunidade humana localizada próxima ao Lago Longo, próxima à Montanha Solitária. É famosa por seu comércio e por ser uma parada para viajantes e aventureiros.",
+            "coords": "3230,5130",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "Ered Mithrim",
+            "type": "Mountain",
+            "description": "Ered Mithrim, também conhecidas como Montanhas Cinzentas, são uma cadeia de montanhas localizada na Terra-média. Elas são conhecidas por sua beleza majestosa e pelos segredos antigos que guardam.",
+            "coords": "3800,4200",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "Monte Gundabad",
+            "type": "Mountain",
+            "description": "Uma imponente montanha localizada nas Montanhas Sombrias da Terra-média. É famosamente conhecida como a antiga fortaleza dos Orcs e servia como sua morada e fortaleza principal. A montanha possui uma presença sombria e ameaçadora, representando uma constante ameaça para as terras e civilizações vizinhas.",
+            "coords": "3900,3900",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "Ered Luin",
+            "type": "Mountain",
+            "description": "As Montanhas Azuis, também conhecidas como Ered Luin, eram a cordilheira no extremo oeste de Eriador.",
+            "coords": "3500,2200",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "Tower Hills",
+            "type": "Mountain",
+            "description": "Um conjunto de montanhas caracterizadas por suas colinas suaves e gramados verdejantes, onde estão situadas as torres dos Elfos. As Colinas das Torres servem como um ponto de observação e vigia dos Portos Cinzentos, oferecendo uma vista panorâmica do mar e das terras além.",
+            "coords": "3200,2400",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "Emyn Arnen",
+            "type": "Mountain",
+            "description": "Uma cadeia de colinas em Gondor, conhecida por sua beleza natural e cidade residencial de verão dos reis. Rodeada por florestas exuberantes, oferece vistas deslumbrantes e tem valor histórico em Gondor.",
+            "coords": "1550,4700",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "Ephel Duath",
+            "type": "Mountain",
+            "description": "Uma cadeia de montanhas assustadoras que separava Mordor de Gondor, local de passagens perigosas e guardada por Orques.",
+            "coords": "1350,5100",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "Orodruin",
+            "type": "Structure",
+            "description": "Um vulcão na Terra-média, também conhecido como Montanha da Perdição, onde o Um Anel foi forjado e destruído. Era reflexo do poderío de Sauron.",
+            "coords": "1850,5400",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "name": "Colinas de Ferro",
+            "type": "Mountain",
+            "description": "Montanhas localizadas a leste da Montanha Solitária, conhecidas por suas ricas jazidas de minério de ferro e por serem habitadas pelos Anões.",
+            "coords": "3650,6100",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "name": "Lond Daer",
+            "type": "City",
+            "description": "Uma cidade portuária localizada na costa ocidental da Terra-média, conhecida por seu comércio marítimo e importância estratégica como ponto de conexão entre as terras do norte e do sul.",
+            "coords": "2300,3000",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "name": "Tharbad",
+            "type": "City",
+            "description": "Uma antiga cidade localizada nas margens do rio Gwathló, conhecida por sua importância como um cruzamento comercial e ponto de travessia de rios. No entanto, a cidade foi abandonada e tornou-se uma ruína desolada ao longo dos tempos.",
+            "coords": "2800,3350",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "name": "Isengard",
+            "type": "Structure",
+            "description": " Uma fortaleza poderosa e assustadora, conhecida como a Torre de Orthanc. Caiu sob o controle de Saruman, que a corrompeu com sua busca pelo poder. Isengard tornou-se um símbolo de tirania e destruição, abrigando um exército de Uruk-hai e servindo como base para os planos malignos de Saruman durante a Guerra do Anel.",
+            "coords": "2350,3700",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "name": "Dol Amroth",
+            "type": "City",
+            "description": "Cidade costeira majestosa em Gondor, conhecida por sua beleza e esplendor. Lar da Casa de Dol Amroth, famosa por seus cavaleiros valentes e descendência élfica.",
+            "coords": "1500,3650",
+            "image": ""
+        }
+        ,
+        {
+            "id": 22,
+            "name": "Edhellond",
+            "type": "Structure",
+            "description": "Um antigo porto élfico localizado nas costas de Gondor, famoso por sua beleza e conexão com os Elfos.",
+            "coords": "1580,3770",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "name": "Rio Anduin",
+            "type": "River",
+            "description": "O Rio Anduin, imponente e sinuoso, é um importante curso d'água na Terra Média, famoso por fluir através de paisagens majestosas e desempenhar um papel vital nas aventuras e conflitos.",
+            "coords": "3670,4190,3650,4190,3635,4200,3615,4195,3608,4230,3590,4230,3590,4250,3530,4253,3510,4300,3490,4300,3390,4320,3360,4345,3340,4340,3280,4353,3230,4410,3200,4416,3180,4400,3155,4395,3140,4422,3115,4440,2960,4415,2950,4405,2925,4395,2910,4407,2830,4375,2790,4305,2760,4290,2700,4320,2670,4370,2640,4360,2630,4480,2550,4450,2560,4550,2500,4570,2440,4540,2420,4580,2360,4560,2280,4510,2200,4500,2160,4520,2140,4505,2100,4530,2070,4605,2070,4620,2040,4620,1950,4680,1930,4715,1730,4830,1680,4815,1600,4620,1540,4630,1520,4660,1420,4620,1370,4530,1330,4400,1280,4250",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "name": "Rio Morthond",
+            "type": "River",
+            "description": "Era um rio longo e de águas geladas que corria aos pés das Montanhas Brancas. O rio surgia da entrada sul das Sendas dos Mortos e descia em uma série de quedas d'água até o Vale de Morthond. Uma estrada seguia ao lado do rio ao passar pelo vale.",
+            "coords": "1577,3765,1610,3800,1630,3780,1645,3783,1655,3770,1685,3765,1700,3750,1765,3800,1780,3840,1790,3825,1802,3839,1825,3835,1865,3859",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "name": "Rio Poros",
+            "type": "River",
+            "description": "Um rio que nascia em Ephel Dúath nas fronteiras de Mordor e corria para o oeste para encontrar o Anduin . Este era o mais ao sul dos muitos afluentes do Anduin. Poros marcava a fronteira de Gondor com a antiga terra de South Gondor.",
+            "coords": "1330,4430,1300,4560,1255,4565,1263,4610,1230,4640,1232,4670,1230,4695,1245,4690,1270,4755,1260,4800,1290,4825,1310,4895,1330,4897,1325,4935,1350,4940,1340,4970,1350,5030",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "name": "Rio Bruinen",
+            "type": "River",
+            "description": "Bruinen ou Loudwater era um rio no leste de Eriador . Começou com dois afluentes que fluíam das encostas ocidentais das Montanhas Nebulosas , um dos quais vinha da Passagem Alta onde existia a Cidade dos Goblins . O Bruinen terminou quando se juntou ao rio Mitheithel.",
+            "coords": "3320,3900,3300,3870,3280,3870,3265,3850,3225,3840,3200,3840,3180,3820,3140,3830,3110,3830,3100,3810,3080,3805,3065,3775,3050,3775,3040,3745,3010,3730,2980,3600",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "name": "Rio Hoarwell",
+            "type": "River",
+            "description": "",
+            "coords": "3510,3875,3450,3750,3390,3730,3380,3690,3330,3705,3290,3700,3260,3690,3170,3670,3165,3640,3150,3640,3140,3610,3050,3620,3045,3605,3020,3615,3005,3600,2980,3600,2950,3565,2945,3540,2900,3500,2895,3460,2860,3400,2830,3405,2800,3360",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "name": "Bree",
+            "type": "City",
+            "description": "Bree era uma vila a leste do Condado. Era habitada por Homens e Hobbits.",
+            "coords": "3280,3250",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "name": "Dol Guldur",
+            "type": "Structure",
+            "description": "Dol Guldur era uma fortaleza de Sauron no sul da Floresta das Trevas. Originalmente o local se chamava Amon Lanc, capital dos elfos de Oropher, avô de Legolas.",
+            "coords": "2800,4680",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "name": "Osgiliath",
+            "type": "City",
+            "description": "Era a antiga capítal de Gondor, foi abandonada devido a ascenção do poderio de Sauron no leste.",
+            "coords": "1830,4850",
+            "image": ""
+        },
+        {
+            "id": 28,
+            "name": "Valfenda",
+            "type": "Structure",
+            "description": "Uma fortaleza dos Elfos liderada por Elrond, filho de Earendill, o grande herói de Elfos e Homens.",
+            "coords": "3285,3920",
+            "image": ""
+        },
+        {
+            "id": 29,
+            "name": "Rio Lune",
+            "type": "River",
+            "description": "O nome dado pelos homens e hobbits ao rio que os elfos chamavam de Lhûn. Os Portos Cinzentos ficavam em sua foz.",
+            "coords": "3200,2300,3230,2330,3295,2365,3300,2399,3335,2398,3350,2414,3375,2400,3400,2405,3432,2450,3500,2450,3533,2479,3560,2490,3580,2475,3620,2480,3650,2450,3680,2470,3710,2460,3730,2425",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "name": "Rio Isen",
+            "type": "River",
+            "description": "O rio que nascia no sopé sul das Montanhas Sombrias , e corria para o oeste por cerca de trezentas milhas para alcançar o Grande Mar nas regiões ao sul de Enedwaith.",
+            "coords": "2060,3100,2083,3175,2115,3200,2068,3280,2095,3320,2068,3380,2100,3415,2140,3425,2145,3475,2165,3510,2170,3590,2190,3620,2225,3640,2240,3700,2268,3712,2275,3700,2300,3725",
+            "image": ""
+        },
+        {
+            "id": 31,
+            "name": "Rio Brandywine",
+            "type": "River",
+            "description": "O nome dado pelos Hobbits ao rio que os Elfos chamavam de Baranduin. Em parte de seu comprimento, formava a fronteira oriental do Condado.",
+            "coords": "3500,2850,3480,2900,3500,2937,3490,2952,3510,2970,3455,3015,3330,2965,3160,3000,3130,2980,3100,3000,3085,2980,3000,3070,2965,3065,2905,3010,2880,3010,2832,2935,2770,2985,2710,2905,2630,2915,2600,2890,2610,2835,2630,2810,2668,2780,2580,2740",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "name": "Rio Celduin",
+            "type": "River",
+            "description": "O nome élfico para o rio conhecido pelos homens como o Rio Corrente. Nasceu nos portões de Erebor e fluiu por longos quilômetros para o sul e para o leste até sua saída para o Mar de Rhûn.",
+            "coords": "3230,5120,3150,5180,3100,5185,3080,5215,2980,5175,2955,5250,2970,5290,2940,5340,2940,5420,2975,5410,2970,5460,2985,5480,2940,5520,2960,5550,2970,5570,2990,5620,2966,5660,2935,5700,2900,5710,2850,5690,2810,5736,2890,5930,2850,5930,2865,5990,2800,6050",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "name": "Rio Celebrant",
+            "type": "River",
+            "description": "Um rio que surgiu nos pés das montanhas e fluiu para o leste através de Lórien para encontrar o rio Anduin .",
+            "coords": "2840,4046,2745,4120,2715,4310",
+            "image": ""
+        },
+        {
+            "id": 33,
+            "name": "Rio Sirith",
+            "type": "River",
+            "description": "Um rio desaguava no Sirion, quando o grande rio se aproximava de sua foz. A cidade portuária de Pelargir fica na saída do rio Sirith.",
+            "coords": "1686,4506,1630,4470,1580,4450,1550,4470,1510,4440,1490,4453,1460,4445,1440,4480,1400,4474,1400,4490,1360,4490",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "name": "Rio Carnen",
+            "type": "River",
+            "description": "Um rio que nascia nas Colinas de Ferro. Desagua no Rio Corrente, que o leva até o Mar de Rhûn.",
+            "coords": "3470,6130,3380,6110,3370,6080,3330,6075,3327,5985,3310,5970,3313,5950,3300,5950,3280,5930,3295,5900,3260,5870,3190,5785,3140,5795,3090,5740,3040,5760,3030,5740,2930,5703",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "name": "Rio Adorn",
+            "type": "River",
+            "description": "Nascia nos pés das Montanhas Brancas e desaguava no Isen. Definia a fronteira ocidental do país de Rohan.",
+            "coords": "2000,3680,1996,3630,1986,3628,1999,3602,1999,3570,2025,3565,2015,3547,2036,3550,2055,3450,2090,3403",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "name": "Rio Gwathló",
+            "type": "River",
+            "description": "De Tharbad até o grande mar, em Lord Daer.",
+            "coords": "2800,3350,2750,3360,2695,3310,2600,3335,2580,3270,2520,3285,2505,3240,2460,3200,2470,3150,2430,3130,2430,3090,2280,2990",
+            "image": ""
+        },
+        {
+            "id": 35,
+            "name": "Rio Celos",
+            "type": "River",
+            "description": "Um rio ou córrego que era afluente do rio Sirith.",
+            "coords": "1680,4430,1630,4470",
+            "image": ""
+        },
+        {
+            "id": 36,
+            "name": "Rio Ringló",
+            "type": "River",
+            "description": "Nasceu nas Montanhas Brancas acima de Lamedon e fluiu para o sudoeste por cerca de 200 milhas antes de encontrar o mar.",
+            "coords": "1580,3770,1626,3823,1612,3875,1640,3879,1630,3920,1651,3950,1631,3970,1636,3980,1620,3993,1640,4020,1635,4050,1650,4066,1640,4095,1666,4101,1659,4140,1700,4180,1710,4260",
+            "image": ""
+        },
+        {
+            "id": 37,
+            "name": "Rio Entágua",
+            "type": "River",
+            "description": "nascia na Floresta Fangorn, corria através de Rohan até encontrar o Grande Rio Anduin.",
+            "coords": "2335,4080,2293,4100,2280,4210,2250,4170,2220,4180,2210,4140,2105,4125,2090,4110,2060,4140,2080,4210,2100,4220,2070,4260,2020,4230,2038,4290,2022,4315,2068,4381,2070,4440,2025,4496,2025,4515,2000,4540,1985,4580,2010,4600,1960,4672",
+            "image": ""
+        },
+        {
+            "id": 38,
+            "name": "Rio Erui",
+            "type": "River",
+            "description": "Próximo a capital Minas Tirith e desaguava no Anduin.",
+            "coords": "1700,4570,1670,4570,1660,4590,1605,4560,1595,4580,1570,4565,1560,4580,1545,4580,1550,4630",
+            "image": ""
+        }        
+    ]
+}
